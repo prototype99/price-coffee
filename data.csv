@@ -1,3 +1,63 @@
 id,name,drinkable,weight,packsize,quantity,price,delivery,gramCost,url
+,"cafedirect intense",1,227,,,3.75,,,https://www.sainsburys.co.uk/gol-ui/product/cafedirect-fairtrade-intense-roast-ground-coffee-227g
+,"cafedirect kilimanjaro",1,227,,,3.75,,,https://www.sainsburys.co.uk/gol-ui/product/cafedirect-fairtrade-kilimanjaro-tanzania-ground-coffee-227g
+,"cafedirect lively",1,227,,,3.75,,,https://www.sainsburys.co.uk/gol-ui/product/cafedirect-full-r-g-coffee-227g
+,"cafedirect machu picchu",1,227,,,3.75,,,https://www.sainsburys.co.uk/gol-ui/product/caf%c3%a9direct-fairtrade-organic-machu-picchu-peru-ground-coffee-227g
+,"cafedirect maya",1,227,,,3.75,,,https://www.sainsburys.co.uk/gol-ui/product/cafedirect-fairtrade-organic-mayan-gold-227g
+,"cafedirect smooth",1,227,,,3.75,,,https://www.sainsburys.co.uk/gol-ui/product/cafedirect-fairtrade-smooth-roast-ground-coffee-227g
 ,"caffe di italia",,250,,,1,,,poundland
+,"carte noire",1,250,,,3.5,,,https://www.sainsburys.co.uk/gol-ui/product/carte-noire-regular-bag-250g
+,"change please ethiopia",1,200,,,4.5,,,https://www.sainsburys.co.uk/gol-ui/product/change-please-ethiopian-ground-coffee-200g
+,"change please tom",1,200,,,4.5,,,https://www.sainsburys.co.uk/gol-ui/product/change-please-toms-blend-ground-coffee-200g
+,"costa signature",1,200,,,3.7,,,https://www.sainsburys.co.uk/gol-ui/product/costa-roast---ground-refill-200g
+,"grumpy mule",1,227,,,4.49,,,https://www.amazon.co.uk/dp/B00FC9GPKS
+,hubbard's,1,227,,,1.09,,,https://www.sainsburys.co.uk/gol-ui/product/hubbards-r-g-coffee-227g
+,illy,1,125,,,3.14,,,https://www.amazon.co.uk/dp/B0113NDACW
+,illy,1,250,,,7,,,https://www.sainsburys.co.uk/gol-ui/product/illy-caffe-espresso-coffee-250g
+,"illy intenso",1,125,,,3.14,,,https://www.amazon.co.uk/dp/B00FC9GM9W
+,"illy intenso",1,250,,,7,,,https://www.sainsburys.co.uk/gol-ui/product/illy-dark-roast-ground-coffee-250g
+,kenco,1,212,,,3.5,,,https://www.sainsburys.co.uk/gol-ui/product/kenco-barista-edition-smooth-ground-coffee-212g
+,"kenco rich",1,212,,,3.5,,,https://www.sainsburys.co.uk/gol-ui/product/kenco-barista-edition-rich-ground-coffee-212g
+,lavazza,1,250,,,3.6,,,https://www.sainsburys.co.uk/gol-ui/product/lavazza-qualita-rossa-ground-espresso-coffee-250g
+,lavazza,1,250,2,,5.8,,,https://www.sainsburys.co.uk/gol-ui/product/lavazza-qualita-rossa-ground-coffee-twin-pack-espresso-x2-250g
+,"lavazza crema",1,250,,,3.6,,,https://www.sainsburys.co.uk/gol-ui/product/lavazza-crema-e-gusto-coffee--espresso-250g
+,"lavazza espresso",1,250,,,4.1,,,https://www.sainsburys.co.uk/gol-ui/product/lavazza-black-pack-ground-coffee--espresso-250g
+,"lavazza oro",1,250,,,3.5,,,https://www.sainsburys.co.uk/gol-ui/product/lavazza-qualita-oro-ground-coffee-250g
+,"modern standard colombia",1,227,,,4.5,,,https://www.sainsburys.co.uk/gol-ui/product/modern-standard-colombia-aromas-del-sur-coffee-227g
+,percol,1,200,,,4,,,https://www.sainsburys.co.uk/gol-ui/product/percol-fairtrade-smooth-colombia-ground-coffee-200g
+,"sainsbury's after dinner",1,227,,,2.3,,,https://www.sainsburys.co.uk/gol-ui/product/sainsburys-omni-grind-coffee--continental-227g
+,"sainsbury's colombia",1,227,,,3.5,,,https://www.sainsburys.co.uk/gol-ui/product/sainsburys-fairtrade-colombian-coffee--taste-the-difference-227g
+,"sainsbury's colombia (quinchia)",1,227,,,3.5,,,https://www.sainsburys.co.uk/gol-ui/product/sainsburys-fairtrade-sundried-quinchia--taste-the-difference-227g
+,"sainsbury's colombia",1,454,,,6.5,,,https://www.sainsburys.co.uk/gol-ui/product/sainsburys-fairtrade-colombian--taste-the-difference-454g
+,"sainsbury's espresso",1,227,,,2.3,,,https://www.sainsburys.co.uk/gol-ui/product/sainsburys-roasted---ground-italian-espresso-coffee-227g
+,"sainsbury's ethiopia",1,227,,,3.5,,,https://www.sainsburys.co.uk/gol-ui/product/sainsburys-fairtrade-ethiopian-sidamo-coffee--taste-the-difference-227g
+,"sainsbury's french (chicory)",1,227,,,2.3,,,https://www.sainsburys.co.uk/gol-ui/product/sainsburys-omni-grind-origin-coffee-french-style-with-chicory-227g
+,"sainsbury's house",1,227,,,2.3,,,https://www.sainsburys.co.uk/gol-ui/product/sainsburys-original-blend-filter-coffee-227g
+,"sainsbury's indian",1,227,,,3.5,,,https://www.sainsburys.co.uk/gol-ui/product/sainsburys-fairtrade-indian-monsoon-malabar-ground-coffee-taste-the-difference-227g
+,"sainsbury's intense",1,227,,,2.3,,,https://www.sainsburys.co.uk/gol-ui/product/sainsburys-double-dark-blend-r-g-coffee-227g
+,"sainsbury's italian",1,227,,,2.3,,,https://www.sainsburys.co.uk/gol-ui/product/sainsburys-italian-roasted---ground-coffee-227g
+,"sainsbury's kenya",1,227,,,3.5,,,https://www.sainsburys.co.uk/gol-ui/product/sainsburys-kenyan-coffee--taste-the-difference-227g
+,"sainsbury's machu picchu",1,227,,,3.5,,,https://www.sainsburys.co.uk/gol-ui/product/sainsburys-fairtrade-peruvian-machu-picchu-ground-coffee-taste-the-difference-227g
+,"sainsbury's papua new guinea",1,227,,,3.5,,,https://www.sainsburys.co.uk/gol-ui/product/sainsburys-papua-new-guinea-coffee--so-organic-227g
+,"sainsbury's sumatra",1,227,,,3.5,,,https://www.sainsburys.co.uk/gol-ui/product/sainsburys-fairtrade-sumatra-mandheling-coffee--taste-the-difference-227g
+,"sainsbury's winter",1,227,,,3.5,,,https://www.sainsburys.co.uk/gol-ui/product/sainsburys-fairtrade-christmas-blend-ground-coffee-taste-the-difference-227g-7875888-p-44
 ,solimo,1,227,6,1,8.54,,,https://www.amazon.co.uk/dp/B07C79Y6KQ
+,"starbucks colombia",1,200,,,3.75,,,https://www.sainsburys.co.uk/gol-ui/product/starbucks-colombia-single-origin-medium-ground-100-arabica-coffee-bag-200g
+,"starbucks house",1,200,,,3.75,,,https://www.sainsburys.co.uk/gol-ui/product/starbucks-house-blend-ground-coffee-200g
+,"starbucks verona",1,200,,,3.75,,,https://www.sainsburys.co.uk/gol-ui/product/starbucks-cafe-verona-dark-roast-ground-coffee-bag-200g
+,"taylors after dark",1,227,,,3,,,https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-after-dark-ground-coffee-227g
+,"taylors brasil",1,227,,,3,,,https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-brasilia-ground-coffee-227g
+,"taylors cacao",1,227,,,4.5,,,https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-cacao-superior-colombia-ground-coffee-227g
+,"taylors fika",1,227,,,3,,,https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-fairtrade-organic-fika-ground-coffee-227g
+,"taylors italian",1,227,,,3,,,https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-rich-italian-roast-coffee-227g
+,"taylors italian",1,454,,,5,,,https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-rich-italian-ground-coffee-454g
+,"taylors java",1,227,,,3,,,https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-ground-coffee--hot-lava-java-227g
+,"taylors lazy Sunday",1,227,,,3,,,https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-ground-coffee--lazy-sunday-227g
+,"taylors lazy Sunday",1,454,,,5,,,https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-lazy-sunday-ground-coffee-454g
+,"taylors limited edition",1,227,,,3,,,https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-rwanda-lake-kivu-ground-coffee-227g
+,"taylors voltage",1,227,,,3,,,https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-high-voltage-ground-coffee-227g
+,tchibo,1,250,,,2,,,https://www.sainsburys.co.uk/gol-ui/product/tchibo-family-ground-coffee-250g
+,"union bobolink",1,200,,,5.5,,,https://www.sainsburys.co.uk/gol-ui/product/union-hand-roasted-coffee-bobolink-brazil-cafeti%c3%a8re-grind-200g
+,"union house",1,200,,,5,,,https://www.sainsburys.co.uk/gol-ui/product/union-hand-roasted-coffee-house-roast-cafeti%c3%a8re-grind-200g
+,"union maraba",1,200,,,5.5,,,https://www.sainsburys.co.uk/gol-ui/product/union-hand-roasted-coffee-maraba-rwanda-cafeti%c3%a8re-grind-200g
+,"union timana",1,200,,,5.5,,,https://www.sainsburys.co.uk/gol-ui/product/union-hand-roasted-timana-colombia-ground-coffee-200g
