@@ -67,7 +67,7 @@ id,name,drinkable,weight,packsize,quantity,price,delivery,gramCost,url
 ,"sainsbury's papua new guinea",1,227,,,3.5,,,https://www.sainsburys.co.uk/gol-ui/product/sainsburys-papua-new-guinea-coffee--so-organic-227g
 ,"sainsbury's sumatra",1,227,,,3.5,,,https://www.sainsburys.co.uk/gol-ui/product/sainsburys-fairtrade-sumatra-mandheling-coffee--taste-the-difference-227g
 ,"sainsbury's winter",1,227,,,3.5,,,https://www.sainsburys.co.uk/gol-ui/product/sainsburys-fairtrade-christmas-blend-ground-coffee-taste-the-difference-227g-7875888-p-44
-,solimo,1,227,6,1,8.54,,,https://www.amazon.co.uk/dp/B07C79Y6KQ
+,solimo,1,227,6,,8.54,,,https://www.amazon.co.uk/dp/B07C79Y6KQ
 ,"starbucks colombia",1,200,,,3,,,https://groceries.asda.com/product/1000116076060
 ,"starbucks colombia",1,200,,,3.75,,,https://www.sainsburys.co.uk/gol-ui/product/starbucks-colombia-single-origin-medium-ground-100-arabica-coffee-bag-200g
 ,"starbucks house",1,200,,,3,,,https://groceries.asda.com/product/1000116075940
