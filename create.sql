@@ -11,7 +11,6 @@ CREATE TABLE data (
   packsize tinyint(3) NOT NULL DEFAULT 1,
   quantity tinyint(3) NOT NULL DEFAULT 1,
   cost DECIMAL(1,0) NOT NULL,
-  delivery tinyint(3) NOT NULL,
   gramCost DECIMAL(4,3),
   url tinytext,
   key id (id)
@@ -28,6 +27,6 @@ UPDATE data SET packsize = DEFAULT WHERE packsize = 0;
 
 UPDATE data SET quantity = DEFAULT WHERE quantity = 0;
 
-UPDATE data SET gramCost = (cost * quantity) / (weight * packsize * quantity + delivery);
+UPDATE data SET gramCost = (cost * quantity) / (weight * packsize * quantity);
 
 SELECT * from data ORDER BY gramCost;
