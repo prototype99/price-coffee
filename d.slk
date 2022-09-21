@@ -270,7 +270,7 @@ F;P2;SM1;X3
 F;P2;SM1;X4
 F;P2;SM1;X5
 F;P2;SM1;X6
-F;P0;SM1;X7
+F;P2;SM1;X7
 F;P1;SM1;X8
 F;P2;SM1;X9
 F;FD0R;P2;SM1;Y30;X1
@@ -333,7 +333,7 @@ F;P2;SM1;X3
 F;P2;SM1;X4
 F;P2;SM1;X5
 F;P2;SM1;X6
-F;P2;SM1;X7
+F;P0;SM1;X7
 F;P1;SM1;X8
 F;P2;SM1;X9
 F;FD0R;P2;SM1;Y37;X1
@@ -1209,6 +1209,195 @@ F;P2;SM1;X6
 F;P2;SM1;X7
 F;P1;SM1;X8
 F;P2;SM1;X9
+F;FD0R;P2;SM1;Y134;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y135;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y136;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y137;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y138;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y139;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y140;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y141;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y142;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y143;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y144;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y145;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y146;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y147;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y148;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y149;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y150;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y151;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y152;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y153;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y154;X1
+F;P2;SM1;X2
+F;P2;SM1;X3
+F;P2;SM1;X4
+F;P2;SM1;X5
+F;P2;SM1;X6
+F;P2;SM1;X7
+F;P1;SM1;X8
+F;P2;SM1;X9
 F;W1 1 21
 F;W2 2 7
 F;W3 3 4
@@ -1218,7 +1407,7 @@ F;W6 6 6
 F;W7 7 5
 F;W8 8 15
 F;W9 9 90
-B;Y133;X9;D0 0 132 8
+B;Y154;X9;D0 0 153 8
 O;A100 0.001000;L;V0
 C;Y1;X1;K"name"
 C;X2;K"drinkable"
@@ -1337,7 +1526,25 @@ C;X6;K2
 C;X7;K2.5
 C;X8;K0.011013215859030838;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/1000010555086"
-C;Y14;X1;K"brodies"
+C;Y14;X1;K"black donkey devil's roast"
+C;X2;K1
+C;X3;K0
+C;X4;K500
+C;X5;K1
+C;X6;K1
+C;X7;K11.99
+C;X8;K0.02398;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B08294QS4S"
+C;Y15;X1;K"black insomnia"
+C;X2;K1
+C;X3;K0
+C;X4;K453
+C;X5;K1
+C;X6;K1
+C;X7;K15.99
+C;X8;K0.035298013245033115;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B09VYG4Q53"
+C;Y16;X1;K"brodies"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -1346,7 +1553,7 @@ C;X6;K1
 C;X7;K4.23
 C;X8;K0.018634361233480178;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B08KRCJX81"
-C;Y15;X1;K"cafedirect intense"
+C;Y17;X1;K"cafedirect intense"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -1355,7 +1562,7 @@ C;X6;K1
 C;X7;K22.7
 C;X8;K0.016666666666666666;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B000RL5SNQ"
-C;Y16;X1;K"cafedirect intense"
+C;Y18;X1;K"cafedirect intense"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -1364,7 +1571,7 @@ C;X6;K1
 C;X7;K3.75
 C;X8;K0.016519823788546256;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/cafedirect-fairtrade-intense-roast-ground-coffee-227g"
-C;Y17;X1;K"cafedirect kilimanjaro"
+C;Y19;X1;K"cafedirect kilimanjaro"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -1373,7 +1580,7 @@ C;X6;K1
 C;X7;K3.75
 C;X8;K0.016519823788546256;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/cafedirect-fairtrade-kilimanjaro-tanzania-ground-coffee-227g"
-C;Y18;X1;K"cafedirect lively"
+C;Y20;X1;K"cafedirect lively"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -1382,7 +1589,7 @@ C;X6;K1
 C;X7;K3.75
 C;X8;K0.016519823788546256;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/cafedirect-full-r-g-coffee-227g"
-C;Y19;X1;K"cafedirect machu picchu"
+C;Y21;X1;K"cafedirect machu picchu"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -1391,7 +1598,7 @@ C;X6;K1
 C;X7;K21.38
 C;X8;K0.015697503671071953;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B0733B51WG"
-C;Y20;X1;K"cafedirect machu picchu"
+C;Y22;X1;K"cafedirect machu picchu"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -1400,7 +1607,7 @@ C;X6;K1
 C;X7;K3.75
 C;X8;K0.016519823788546256;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/caf%c3%a9direct-fairtrade-organic-machu-picchu-peru-ground-coffee-227g"
-C;Y21;X1;K"cafedirect maya"
+C;Y23;X1;K"cafedirect maya"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -1409,7 +1616,7 @@ C;X6;K1
 C;X7;K3.75
 C;X8;K0.016519823788546256;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/cafedirect-fairtrade-organic-mayan-gold-227g"
-C;Y22;X1;K"cafedirect smooth"
+C;Y24;X1;K"cafedirect smooth"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -1418,7 +1625,7 @@ C;X6;K1
 C;X7;K3.75
 C;X8;K0.016519823788546256;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/cafedirect-fairtrade-smooth-roast-ground-coffee-227g"
-C;Y23;X1;K"cafepod brunch"
+C;Y25;X1;K"cafepod brunch"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -1427,7 +1634,7 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.0175;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/1000194416634"
-C;Y24;X1;K"cafepod daily"
+C;Y26;X1;K"cafepod daily"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -1436,7 +1643,7 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.0175;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/1000194416620"
-C;Y25;X1;K"caffe di italia"
+C;Y27;X1;K"caffe di italia"
 C;X2;K0
 C;X3;K0
 C;X4;K250
@@ -1445,7 +1652,34 @@ C;X6;K1
 C;X7;K1
 C;X8;K0.004;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"poundland/b&m"
-C;Y26;X1;K"carte noire"
+C;Y28;X1;K"caffe nero classico espresso"
+C;X2;K1
+C;X3;K0
+C;X4;K200
+C;X5;K6
+C;X6;K1
+C;X7;K21.95
+C;X8;K0.018291666666666664;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B09FM19LS5"
+C;Y29;X1;K"caffe nero classico filter"
+C;X2;K1
+C;X3;K0
+C;X4;K200
+C;X5;K6
+C;X6;K1
+C;X7;K21.95
+C;X8;K0.018291666666666664;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B09FM1DSX4"
+C;Y30;X1;K"caffe nero peru"
+C;X2;K1
+C;X3;K0
+C;X4;K200
+C;X5;K6
+C;X6;K1
+C;X7;K26.7
+C;X8;K0.02225;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B09FM1TXGG"
+C;Y31;X1;K"carte noire"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1454,7 +1688,16 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.014;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/carte-noire-regular-bag-250g"
-C;Y27;X1;K"change please ethiopia"
+C;Y32;X1;K"change please bold soul"
+C;X2;K1
+C;X3;K0
+C;X4;K200
+C;X5;K6
+C;X6;K1
+C;X7;K26.99
+C;X8;K0.022491666666666667;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B09MS677QD"
+C;Y33;X1;K"change please ethiopia"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -1463,7 +1706,7 @@ C;X6;K1
 C;X7;K4.5
 C;X8;K0.0225;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/change-please-ethiopian-ground-coffee-200g"
-C;Y28;X1;K"change please tom"
+C;Y34;X1;K"change please tom"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -1472,7 +1715,16 @@ C;X6;K1
 C;X7;K4.5
 C;X8;K0.0225;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/change-please-toms-blend-ground-coffee-200g"
-C;Y29;X1;K"costa honduran"
+C;Y35;X1;K"contact red on!"
+C;X2;K1
+C;X3;K0
+C;X4;K250
+C;X5;K2
+C;X6;K1
+C;X7;K16.99
+C;X8;K0.033979999999999996;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B09T3HQGWR"
+C;Y36;X1;K"costa honduran"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -1481,7 +1733,7 @@ C;X6;K1
 C;X7;K2
 C;X8;K0.01;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/1000194035178"
-C;Y30;X1;K"costa signature"
+C;Y37;X1;K"costa signature"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -1490,7 +1742,7 @@ C;X6;K1
 C;X7;K2
 C;X8;K0.01;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/1000067508710"
-C;Y31;X1;K"costa signature"
+C;Y38;X1;K"costa signature"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -1499,7 +1751,7 @@ C;X6;K1
 C;X7;K3.7
 C;X8;K0.018500000000000003;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/costa-roast---ground-refill-200g"
-C;Y32;X1;K"crazy cat"
+C;Y39;X1;K"crazy cat"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1508,7 +1760,7 @@ C;X6;K1
 C;X7;K7.82
 C;X8;K0.03128;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B01M5BHLL0"
-C;Y33;X1;K"der-franz"
+C;Y40;X1;K"der-franz"
 C;X2;K1
 C;X3;K0
 C;X4;K500
@@ -1517,7 +1769,7 @@ C;X6;K4
 C;X7;K9.0155;E9.49*0.95
 C;X8;K0.0090155;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B095J7TB6P"
-C;Y34;X1;K"dimello guatemala"
+C;Y41;X1;K"dimello guatemala"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1526,7 +1778,7 @@ C;X6;K1
 C;X7;K6.99
 C;X8;K0.027960000000000002;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B0B64257M6"
-C;Y35;X1;K"dunkin"
+C;Y42;X1;K"dunkin"
 C;X2;K1
 C;X3;K0
 C;X4;K453
@@ -1535,7 +1787,7 @@ C;X6;K1
 C;X7;K5.68
 C;X8;K0.012538631346578366;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B000MFGP2U"
-C;Y36;X1;K"etude prelude cafetiere"
+C;Y43;X1;K"etude prelude cafetiere"
 C;X2;K1
 C;X3;K0
 C;X4;K230
@@ -1544,7 +1796,25 @@ C;X6;K1
 C;X7;K8.9
 C;X8;K0.03869565217391305;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B0BF4X7VD5"
-C;Y37;X1;K"freshground"
+C;Y44;X1;K"exhale dark"
+C;X2;K1
+C;X3;K0
+C;X4;K225
+C;X5;K1
+C;X6;K1
+C;X7;K9.99
+C;X8;K0.0444;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B09N9NJVJ6"
+C;Y45;X1;K"exhale house"
+C;X2;K1
+C;X3;K0
+C;X4;K225
+C;X5;K1
+C;X6;K1
+C;X7;K9.99
+C;X8;K0.0444;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B09N9MQQFL"
+C;Y46;X1;K"freshground"
 C;X2;K1
 C;X3;K0
 C;X4;K255
@@ -1553,7 +1823,7 @@ C;X6;K1
 C;X7;K12.99
 C;X8;K0.016980392156862745;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B08T14FTM1"
-C;Y38;X1;K"freshground"
+C;Y47;X1;K"freshground"
 C;X2;K1
 C;X3;K0
 C;X4;K130
@@ -1562,7 +1832,7 @@ C;X6;K1
 C;X7;K14.99
 C;X8;K0.028826923076923076;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B09642TH3J"
-C;Y39;X1;K"grumpy mule colombia"
+C;Y48;X1;K"grumpy mule colombia"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -1571,16 +1841,16 @@ C;X6;K1
 C;X7;K3.59
 C;X8;K0.015814977973568282;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/1000117540221"
-C;Y40;X1;K"grumpy mule sumatra"
+C;Y49;X1;K"grumpy mule colombia"
 C;X2;K1
 C;X3;K0
 C;X4;K227
 C;X5;K1
 C;X6;K1
-C;X7;K3.59
-C;X8;K0.015814977973568282;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
-C;X9;K"https://groceries.asda.com/product/1000117540216"
-C;Y41;X1;K"grumpy mule sumatra"
+C;X7;K5.5
+C;X8;K0.024229074889867842;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B00FC9G53A"
+C;Y50;X1;K"grumpy mule sumatra"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -1589,7 +1859,25 @@ C;X6;K1
 C;X7;K4.49
 C;X8;K0.019779735682819384;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B00FC9GPKS"
-C;Y42;X1;K"happy belly crema"
+C;Y51;X1;K"grumpy mule sumatra"
+C;X2;K1
+C;X3;K0
+C;X4;K227
+C;X5;K1
+C;X6;K1
+C;X7;K3.59
+C;X8;K0.015814977973568282;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://groceries.asda.com/product/1000117540216"
+C;Y52;X1;K"happy belly brasile"
+C;X2;K1
+C;X3;K0
+C;X4;K250
+C;X5;K4
+C;X6;K4
+C;X7;K9.73
+C;X8;K0.00973;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B07CTRJ92C"
+C;Y53;X1;K"happy belly crema"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1598,7 +1886,7 @@ C;X6;K4
 C;X7;K5.37
 C;X8;K0.01074;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B08WSMTJDK"
-C;Y43;X1;K"happy belly crema"
+C;Y54;X1;K"happy belly crema"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1607,7 +1895,7 @@ C;X6;K1
 C;X7;K3.38
 C;X8;K0.013519999999999999;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07KFPXB3V"
-C;Y44;X1;K"happy belly forte"
+C;Y55;X1;K"happy belly forte"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1616,7 +1904,7 @@ C;X6;K4
 C;X7;K9.97
 C;X8;K0.009970000000000001;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07CTT5VM7"
-C;Y45;X1;K"happy belly forte"
+C;Y56;X1;K"happy belly forte"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1625,7 +1913,7 @@ C;X6;K4
 C;X7;K7.39
 C;X8;K0.01478;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B08WSNSQ6P"
-C;Y46;X1;K"happy belly forte"
+C;Y57;X1;K"happy belly forte"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1634,7 +1922,7 @@ C;X6;K1
 C;X7;K2.59
 C;X8;K0.01036;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07KFQ44Z7"
-C;Y47;X1;K"happy belly intenso"
+C;Y58;X1;K"happy belly intenso"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1643,7 +1931,7 @@ C;X6;K1
 C;X7;K5.225;E5.5*0.95
 C;X8;K0.0209;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07KFPSDM8"
-C;Y48;X1;K"happy belly intenso"
+C;Y59;X1;K"happy belly intenso"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1652,7 +1940,7 @@ C;X6;K4
 C;X7;K5.5
 C;X8;K0.011;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B08WSP3QFK"
-C;Y49;X1;K"happy belly intenso"
+C;Y60;X1;K"happy belly intenso"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1661,16 +1949,7 @@ C;X6;K4
 C;X7;K12.26
 C;X8;K0.01226;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07CTT5VLT"
-C;Y50;X1;K"illy"
-C;X2;K1
-C;X3;K0
-C;X4;K250
-C;X5;K1
-C;X6;K4
-C;X7;K4.61
-C;X8;K0.01844;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
-C;X9;K"https://www.amazon.co.uk/dp/B000S75D66"
-C;Y51;X1;K"illy"
+C;Y61;X1;K"illy"
 C;X2;K1
 C;X3;K0
 C;X4;K125
@@ -1679,16 +1958,25 @@ C;X6;K4
 C;X7;K8.05
 C;X8;K0.0644;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B0113NDACW"
-C;Y52;X1;K"illy"
+C;Y62;X1;K"illy"
+C;X2;K1
+C;X3;K0
+C;X4;K125
+C;X5;K3
+C;X6;K1
+C;X7;K13.26
+C;X8;K0.03536;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B003R7K152"
+C;Y63;X1;K"illy"
 C;X2;K1
 C;X3;K0
 C;X4;K250
 C;X5;K1
 C;X6;K4
-C;X7;K5.23
-C;X8;K0.02092;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X7;K6.18
+C;X8;K0.02472;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07FSR1VB3"
-C;Y53;X1;K"illy"
+C;Y64;X1;K"illy"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1697,7 +1985,7 @@ C;X6;K1
 C;X7;K6.5
 C;X8;K0.026;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/910003006182"
-C;Y54;X1;K"illy"
+C;Y65;X1;K"illy"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1706,7 +1994,7 @@ C;X6;K1
 C;X7;K7
 C;X8;K0.028;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/illy-caffe-espresso-coffee-250g"
-C;Y55;X1;K"illy filter"
+C;Y66;X1;K"illy filter"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1715,7 +2003,7 @@ C;X6;K1
 C;X7;K5.23
 C;X8;K0.02092;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B0001GDE1K"
-C;Y56;X1;K"illy intenso"
+C;Y67;X1;K"illy intenso"
 C;X2;K1
 C;X3;K0
 C;X4;K125
@@ -1724,7 +2012,7 @@ C;X6;K1
 C;X7;K3.14
 C;X8;K0.02512;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B00FC9GM9W"
-C;Y57;X1;K"illy intenso"
+C;Y68;X1;K"illy intenso"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1733,7 +2021,7 @@ C;X6;K1
 C;X7;K6.5
 C;X8;K0.026;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/910003006327"
-C;Y58;X1;K"illy intenso"
+C;Y69;X1;K"illy intenso"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1742,7 +2030,16 @@ C;X6;K1
 C;X7;K7
 C;X8;K0.028;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/illy-dark-roast-ground-coffee-250g"
-C;Y59;X1;K"kenco"
+C;Y70;X1;K"illy moka"
+C;X2;K1
+C;X3;K0
+C;X4;K250
+C;X5;K1
+C;X6;K4
+C;X7;K6.18
+C;X8;K0.02472;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B000S75D66"
+C;Y71;X1;K"kenco"
 C;X2;K1
 C;X3;K0
 C;X4;K212
@@ -1751,7 +2048,7 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.01650943396226415;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/kenco-barista-edition-smooth-ground-coffee-212g"
-C;Y60;X1;K"kenco rich"
+C;Y72;X1;K"kenco rich"
 C;X2;K1
 C;X3;K0
 C;X4;K212
@@ -1760,25 +2057,25 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.01650943396226415;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/kenco-barista-edition-rich-ground-coffee-212g"
-C;Y61;X1;K"lavazza"
+C;Y73;X1;K"lavazza"
 C;X2;K1
 C;X3;K0
 C;X4;K250
 C;X5;K12
 C;X6;K1
-C;X7;K29.14
-C;X8;K0.009713333333333334;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X7;K36.2
+C;X8;K0.012066666666666668;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B00DX4SAHK"
-C;Y62;X1;K"lavazza"
+C;Y74;X1;K"lavazza"
 C;X2;K1
 C;X3;K0
 C;X4;K500
 C;X5;K1
 C;X6;K1
-C;X7;K5.4
-C;X8;K0.0108;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X7;K6.84
+C;X8;K0.01368;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B006XFUK6K"
-C;Y63;X1;K"lavazza"
+C;Y75;X1;K"lavazza"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1787,7 +2084,7 @@ C;X6;K1
 C;X7;K5.8
 C;X8;K0.0116;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/1000008931457"
-C;Y64;X1;K"lavazza"
+C;Y76;X1;K"lavazza"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1796,7 +2093,7 @@ C;X6;K1
 C;X7;K5.8
 C;X8;K0.0116;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/lavazza-qualita-rossa-ground-coffee-twin-pack-espresso-x2-250g"
-C;Y65;X1;K"lavazza"
+C;Y77;X1;K"lavazza"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1805,7 +2102,7 @@ C;X6;K1
 C;X7;K3
 C;X8;K0.012;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/19344"
-C;Y66;X1;K"lavazza"
+C;Y78;X1;K"lavazza"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1814,7 +2111,7 @@ C;X6;K1
 C;X7;K3.6
 C;X8;K0.0144;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/lavazza-qualita-rossa-ground-espresso-coffee-250g"
-C;Y67;X1;K"lavazza crema"
+C;Y79;X1;K"lavazza crema"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1823,7 +2120,7 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.014;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/910001697414"
-C;Y68;X1;K"lavazza crema"
+C;Y80;X1;K"lavazza crema"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1832,7 +2129,7 @@ C;X6;K1
 C;X7;K3.6
 C;X8;K0.0144;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/lavazza-crema-e-gusto-coffee--espresso-250g"
-C;Y69;X1;K"lavazza espresso"
+C;Y81;X1;K"lavazza espresso"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1841,7 +2138,7 @@ C;X6;K1
 C;X7;K18.82
 C;X8;K0.012546666666666666;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B004I9H0MA"
-C;Y70;X1;K"lavazza espresso"
+C;Y82;X1;K"lavazza espresso"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1850,7 +2147,7 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.014;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/1000000471988"
-C;Y71;X1;K"lavazza espresso"
+C;Y83;X1;K"lavazza espresso"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1859,7 +2156,7 @@ C;X6;K1
 C;X7;K7.29
 C;X8;K0.01458;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/1000192508931"
-C;Y72;X1;K"lavazza espresso"
+C;Y84;X1;K"lavazza espresso"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1868,7 +2165,7 @@ C;X6;K1
 C;X7;K4.1
 C;X8;K0.016399999999999998;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/lavazza-black-pack-ground-coffee--espresso-250g"
-C;Y73;X1;K"lavazza oro"
+C;Y85;X1;K"lavazza oro"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1877,7 +2174,7 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.014;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/1000052204657"
-C;Y74;X1;K"lavazza oro"
+C;Y86;X1;K"lavazza oro"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1886,7 +2183,7 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.014;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/lavazza-qualita-oro-ground-coffee-250g"
-C;Y75;X1;K"lavazza oro"
+C;Y87;X1;K"lavazza oro"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -1895,7 +2192,7 @@ C;X6;K1
 C;X7;K22.91
 C;X8;K0.015273333333333333;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07D2T6GJ2"
-C;Y76;X1;K"lavazza tierra brasile"
+C;Y88;X1;K"lavazza tierra brasile"
 C;X2;K1
 C;X3;K0
 C;X4;K180
@@ -1904,7 +2201,7 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.019444444444444445;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/1000113394496"
-C;Y77;X1;K"lavazza tierra peru"
+C;Y89;X1;K"lavazza tierra peru"
 C;X2;K1
 C;X3;K0
 C;X4;K180
@@ -1913,7 +2210,34 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.019444444444444445;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/1000113394366"
-C;Y78;X1;K"marley"
+C;Y90;X1;K"lean caffeine nicaragua"
+C;X2;K1
+C;X3;K0
+C;X4;K227
+C;X5;K1
+C;X6;K1
+C;X7;K10.44
+C;X8;K0.04599118942731277;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B073RMDB86"
+C;Y91;X1;K"marley buffalo soldier"
+C;X2;K1
+C;X3;K0
+C;X4;K227
+C;X5;K1
+C;X6;K1
+C;X7;K7.99
+C;X8;K0.03519823788546256;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B07V1RBR71"
+C;Y92;X1;K"marley misty morning"
+C;X2;K1
+C;X3;K0
+C;X4;K227
+C;X5;K1
+C;X6;K1
+C;X7;K7.99
+C;X8;K0.03519823788546256;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B07V3CBCP2"
+C;Y93;X1;K"marley one love"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -1922,7 +2246,25 @@ C;X6;K1
 C;X7;K6.99
 C;X8;K0.03079295154185022;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07V4CKJGP"
-C;Y79;X1;K"modern standard colombia"
+C;Y94;X1;K"marley soul rebel"
+C;X2;K1
+C;X3;K0
+C;X4;K227
+C;X5;K1
+C;X6;K1
+C;X7;K7.99
+C;X8;K0.03519823788546256;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B07V3CFSKN"
+C;Y95;X1;K"mindful coffee focus cafetiere"
+C;X2;K1
+C;X3;K0
+C;X4;K500
+C;X5;K1
+C;X6;K1
+C;X7;K16.97
+C;X8;K0.03394;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B07H758STW"
+C;Y96;X1;K"modern standard colombia"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -1931,7 +2273,7 @@ C;X6;K1
 C;X7;K4.5
 C;X8;K0.019823788546255508;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/modern-standard-colombia-aromas-del-sur-coffee-227g"
-C;Y80;X1;K"percol"
+C;Y97;X1;K"percol"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -1940,7 +2282,7 @@ C;X6;K1
 C;X7;K4
 C;X8;K0.02;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/percol-fairtrade-smooth-colombia-ground-coffee-200g"
-C;Y81;X1;K"sainsbury's after dinner"
+C;Y98;X1;K"sainsbury's after dinner"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -1949,7 +2291,7 @@ C;X6;K1
 C;X7;K2.3
 C;X8;K0.010132158590308369;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/sainsburys-omni-grind-coffee--continental-227g"
-C;Y82;X1;K"sainsbury's colombia"
+C;Y99;X1;K"sainsbury's colombia"
 C;X2;K1
 C;X3;K0
 C;X4;K454
@@ -1958,7 +2300,7 @@ C;X6;K1
 C;X7;K6.5
 C;X8;K0.014317180616740088;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/sainsburys-fairtrade-colombian--taste-the-difference-454g"
-C;Y83;X1;K"sainsbury's colombia"
+C;Y100;X1;K"sainsbury's colombia"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -1967,7 +2309,7 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.015418502202643172;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/sainsburys-fairtrade-colombian-coffee--taste-the-difference-227g"
-C;Y84;X1;K"sainsbury's colombia (quinchia)"
+C;Y101;X1;K"sainsbury's colombia (quinchia)"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -1976,7 +2318,7 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.015418502202643172;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/sainsburys-fairtrade-sundried-quinchia--taste-the-difference-227g"
-C;Y85;X1;K"sainsbury's espresso"
+C;Y102;X1;K"sainsbury's espresso"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -1985,7 +2327,7 @@ C;X6;K1
 C;X7;K2.3
 C;X8;K0.010132158590308369;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/sainsburys-roasted---ground-italian-espresso-coffee-227g"
-C;Y86;X1;K"sainsbury's ethiopia"
+C;Y103;X1;K"sainsbury's ethiopia"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -1994,7 +2336,7 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.015418502202643172;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/sainsburys-fairtrade-ethiopian-sidamo-coffee--taste-the-difference-227g"
-C;Y87;X1;K"sainsbury's french (chicory)"
+C;Y104;X1;K"sainsbury's french (chicory)"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2003,7 +2345,7 @@ C;X6;K1
 C;X7;K2.3
 C;X8;K0.010132158590308369;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/sainsburys-omni-grind-origin-coffee-french-style-with-chicory-227g"
-C;Y88;X1;K"sainsbury's house"
+C;Y105;X1;K"sainsbury's house"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2012,7 +2354,7 @@ C;X6;K1
 C;X7;K2.3
 C;X8;K0.010132158590308369;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/sainsburys-original-blend-filter-coffee-227g"
-C;Y89;X1;K"sainsbury's indian"
+C;Y106;X1;K"sainsbury's indian"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2021,7 +2363,7 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.015418502202643172;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/sainsburys-fairtrade-indian-monsoon-malabar-ground-coffee-taste-the-difference-227g"
-C;Y90;X1;K"sainsbury's intense"
+C;Y107;X1;K"sainsbury's intense"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2030,7 +2372,7 @@ C;X6;K1
 C;X7;K2.3
 C;X8;K0.010132158590308369;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/sainsburys-double-dark-blend-r-g-coffee-227g"
-C;Y91;X1;K"sainsbury's italian"
+C;Y108;X1;K"sainsbury's italian"
 C;X2;K1
 C;X3;K0
 C;X4;K454
@@ -2039,7 +2381,7 @@ C;X6;K1
 C;X7;K4.3
 C;X8;K0.00947136563876652;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/sainsburys-italian-style-coffee-454g"
-C;Y92;X1;K"sainsbury's italian"
+C;Y109;X1;K"sainsbury's italian"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2048,7 +2390,7 @@ C;X6;K1
 C;X7;K2.3
 C;X8;K0.010132158590308369;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/sainsburys-italian-roasted---ground-coffee-227g"
-C;Y93;X1;K"sainsbury's kenya"
+C;Y110;X1;K"sainsbury's kenya"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2057,7 +2399,7 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.015418502202643172;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/sainsburys-kenyan-coffee--taste-the-difference-227g"
-C;Y94;X1;K"sainsbury's machu picchu"
+C;Y111;X1;K"sainsbury's machu picchu"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2066,7 +2408,7 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.015418502202643172;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/sainsburys-fairtrade-peruvian-machu-picchu-ground-coffee-taste-the-difference-227g"
-C;Y95;X1;K"sainsbury's papua new guinea"
+C;Y112;X1;K"sainsbury's papua new guinea"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2075,7 +2417,7 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.015418502202643172;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/sainsburys-papua-new-guinea-coffee--so-organic-227g"
-C;Y96;X1;K"sainsbury's sumatra"
+C;Y113;X1;K"sainsbury's sumatra"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2084,7 +2426,7 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.015418502202643172;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/sainsburys-fairtrade-sumatra-mandheling-coffee--taste-the-difference-227g"
-C;Y97;X1;K"sainsbury's winter"
+C;Y114;X1;K"sainsbury's winter"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2093,7 +2435,7 @@ C;X6;K1
 C;X7;K3.5
 C;X8;K0.015418502202643172;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/sainsburys-fairtrade-christmas-blend-ground-coffee-taste-the-difference-227g-7875888-p-44"
-C;Y98;X1;K"scott&co"
+C;Y115;X1;K"scott&co"
 C;X2;K1
 C;X3;K0
 C;X4;K600
@@ -2102,7 +2444,7 @@ C;X6;K1
 C;X7;K21.99
 C;X8;K0.036649999999999995;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07K7RCMZL"
-C;Y99;X1;K"solimo"
+C;Y116;X1;K"solimo"
 C;X2;K1
 C;X3;K1
 C;X4;K227
@@ -2111,7 +2453,25 @@ C;X6;K1
 C;X7;K15.55
 C;X8;K0.011417033773861968;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07C79Y6KQ"
-C;Y100;X1;K"spiller & tait"
+C;Y117;X1;K"sons of amazon dust"
+C;X2;K1
+C;X3;K0
+C;X4;K500
+C;X5;K1
+C;X6;K1
+C;X7;K16.14
+C;X8;K0.03228;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B0725D3C5S"
+C;Y118;X1;K"sons of amazon rocky"
+C;X2;K1
+C;X3;K0
+C;X4;K500
+C;X5;K1
+C;X6;K1
+C;X7;K16.14
+C;X8;K0.03228;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B0722SD5LF"
+C;Y119;X1;K"spiller & tait"
 C;X2;K1
 C;X3;K0
 C;X4;K500
@@ -2120,7 +2480,7 @@ C;X6;K1
 C;X7;K11.35
 C;X8;K0.022699999999999998;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B00MPWSSNC"
-C;Y101;X1;K"starbucks colombia"
+C;Y120;X1;K"starbucks colombia"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -2129,7 +2489,7 @@ C;X6;K1
 C;X7;K16.4
 C;X8;K0.013666666666666666;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07X63KLLH"
-C;Y102;X1;K"starbucks colombia"
+C;Y121;X1;K"starbucks colombia"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -2138,7 +2498,7 @@ C;X6;K1
 C;X7;K3
 C;X8;K0.015;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/1000116076060"
-C;Y103;X1;K"starbucks colombia"
+C;Y122;X1;K"starbucks colombia"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -2147,7 +2507,7 @@ C;X6;K1
 C;X7;K3.75
 C;X8;K0.01875;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/starbucks-colombia-single-origin-medium-ground-100-arabica-coffee-bag-200g"
-C;Y104;X1;K"starbucks espresso"
+C;Y123;X1;K"starbucks espresso"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -2156,7 +2516,7 @@ C;X6;K1
 C;X7;K19.93
 C;X8;K0.016608333333333333;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B08HR5N1JB"
-C;Y105;X1;K"starbucks house"
+C;Y124;X1;K"starbucks house"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -2165,7 +2525,7 @@ C;X6;K1
 C;X7;K18.99
 C;X8;K0.015825;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07X63LCXL"
-C;Y106;X1;K"starbucks house"
+C;Y125;X1;K"starbucks house"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -2174,7 +2534,7 @@ C;X6;K1
 C;X7;K3
 C;X8;K0.015;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/1000116075940"
-C;Y107;X1;K"starbucks house"
+C;Y126;X1;K"starbucks house"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -2183,7 +2543,7 @@ C;X6;K1
 C;X7;K3.75
 C;X8;K0.01875;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/starbucks-house-blend-ground-coffee-200g"
-C;Y108;X1;K"starbucks pumpin spice"
+C;Y127;X1;K"starbucks pumpin spice"
 C;X2;K1
 C;X3;K0
 C;X4;K311
@@ -2192,7 +2552,7 @@ C;X6;K1
 C;X7;K24.99
 C;X8;K0.08035369774919614;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B074WHVD6X"
-C;Y109;X1;K"starbucks verona"
+C;Y128;X1;K"starbucks verona"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -2201,7 +2561,7 @@ C;X6;K1
 C;X7;K3
 C;X8;K0.015;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/1000116076074"
-C;Y110;X1;K"starbucks verona"
+C;Y129;X1;K"starbucks verona"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -2210,7 +2570,7 @@ C;X6;K1
 C;X7;K3.75
 C;X8;K0.01875;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/starbucks-cafe-verona-dark-roast-ground-coffee-bag-200g"
-C;Y111;X1;K"stock'd"
+C;Y130;X1;K"stock'd"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -2219,7 +2579,7 @@ C;X6;K1
 C;X7;K2.95
 C;X8;K0.011800000000000001;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B09LCRRLSB"
-C;Y112;X1;K"stock'd arabica"
+C;Y131;X1;K"stock'd arabica"
 C;X2;K1
 C;X3;K0
 C;X4;K250
@@ -2228,7 +2588,16 @@ C;X6;K1
 C;X7;K3.24
 C;X8;K0.012960000000000001;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B09LCNP2CM"
-C;Y113;X1;K"taylors after dark"
+C;Y132;X1;K"strong coffee to wake the dead"
+C;X2;K1
+C;X3;K0
+C;X4;K500
+C;X5;K1
+C;X6;K1
+C;X7;K17.98
+C;X8;K0.03596;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B01DTIZ3UQ"
+C;Y133;X1;K"taylors after dark"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2237,7 +2606,7 @@ C;X6;K1
 C;X7;K3
 C;X8;K0.013215859030837005;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-after-dark-ground-coffee-227g"
-C;Y114;X1;K"taylors brasil"
+C;Y134;X1;K"taylors brasil"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2246,7 +2615,7 @@ C;X6;K1
 C;X7;K3
 C;X8;K0.013215859030837005;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-brasilia-ground-coffee-227g"
-C;Y115;X1;K"taylors cacao"
+C;Y135;X1;K"taylors cacao"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2255,7 +2624,7 @@ C;X6;K1
 C;X7;K4.5
 C;X8;K0.019823788546255508;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-cacao-superior-colombia-ground-coffee-227g"
-C;Y116;X1;K"taylors christmas"
+C;Y136;X1;K"taylors christmas"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2264,7 +2633,7 @@ C;X6;K1
 C;X7;K2.99
 C;X8;K0.013171806167400883;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/910000906127"
-C;Y117;X1;K"taylors fika"
+C;Y137;X1;K"taylors fika"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2273,7 +2642,7 @@ C;X6;K1
 C;X7;K3
 C;X8;K0.013215859030837005;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-fairtrade-organic-fika-ground-coffee-227g"
-C;Y118;X1;K"taylors italian"
+C;Y138;X1;K"taylors italian"
 C;X2;K1
 C;X3;K0
 C;X4;K454
@@ -2282,7 +2651,7 @@ C;X6;K1
 C;X7;K5
 C;X8;K0.011013215859030838;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-rich-italian-ground-coffee-454g"
-C;Y119;X1;K"taylors italian"
+C;Y139;X1;K"taylors italian"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2291,7 +2660,7 @@ C;X6;K1
 C;X7;K2.99
 C;X8;K0.013171806167400883;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/416374"
-C;Y120;X1;K"taylors java"
+C;Y140;X1;K"taylors java"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2300,7 +2669,7 @@ C;X6;K1
 C;X7;K2.99
 C;X8;K0.013171806167400883;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/47159309"
-C;Y121;X1;K"taylors java"
+C;Y141;X1;K"taylors java"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2309,7 +2678,7 @@ C;X6;K1
 C;X7;K3
 C;X8;K0.013215859030837005;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-ground-coffee--hot-lava-java-227g"
-C;Y122;X1;K"taylors lazy Sunday"
+C;Y142;X1;K"taylors lazy Sunday"
 C;X2;K1
 C;X3;K0
 C;X4;K454
@@ -2318,7 +2687,7 @@ C;X6;K1
 C;X7;K5
 C;X8;K0.011013215859030838;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-lazy-sunday-ground-coffee-454g"
-C;Y123;X1;K"taylors lazy Sunday"
+C;Y143;X1;K"taylors lazy Sunday"
 C;X2;K1
 C;X3;K0
 C;X4;K454
@@ -2327,7 +2696,7 @@ C;X6;K1
 C;X7;K17.1
 C;X8;K0.012555066079295156;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07Q3DTDYS"
-C;Y124;X1;K"taylors lazy Sunday"
+C;Y144;X1;K"taylors lazy Sunday"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2336,7 +2705,7 @@ C;X6;K1
 C;X7;K2.99
 C;X8;K0.013171806167400883;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/416373"
-C;Y125;X1;K"taylors lazy Sunday"
+C;Y145;X1;K"taylors lazy Sunday"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2345,7 +2714,7 @@ C;X6;K1
 C;X7;K3
 C;X8;K0.013215859030837005;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-ground-coffee--lazy-sunday-227g"
-C;Y126;X1;K"taylors limited edition"
+C;Y146;X1;K"taylors limited edition"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2354,7 +2723,7 @@ C;X6;K1
 C;X7;K3
 C;X8;K0.013215859030837005;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-rwanda-lake-kivu-ground-coffee-227g"
-C;Y127;X1;K"taylors voltage"
+C;Y147;X1;K"taylors voltage"
 C;X2;K1
 C;X3;K0
 C;X4;K227
@@ -2363,7 +2732,7 @@ C;X6;K1
 C;X7;K3
 C;X8;K0.013215859030837005;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/taylors-of-harrogate-high-voltage-ground-coffee-227g"
-C;Y128;X1;K"union bobolink"
+C;Y148;X1;K"union bobolink"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -2372,7 +2741,7 @@ C;X6;K1
 C;X7;K5.5
 C;X8;K0.0275;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/union-hand-roasted-coffee-bobolink-brazil-cafeti%c3%a8re-grind-200g"
-C;Y129;X1;K"union house"
+C;Y149;X1;K"union house"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -2381,7 +2750,16 @@ C;X6;K1
 C;X7;K4.7
 C;X8;K0.0235;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B084R1T5NM"
-C;Y130;X1;K"union house"
+C;Y150;X1;K"union house"
+C;X2;K1
+C;X3;K0
+C;X4;K200
+C;X5;K4
+C;X6;K1
+C;X7;K20.9
+C;X8;K0.026125;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B081FC5QFY"
+C;Y151;X1;K"union house"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -2390,7 +2768,7 @@ C;X6;K1
 C;X7;K5
 C;X8;K0.025;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/union-hand-roasted-coffee-house-roast-cafeti%c3%a8re-grind-200g"
-C;Y131;X1;K"union maraba"
+C;Y152;X1;K"union maraba"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -2399,7 +2777,7 @@ C;X6;K1
 C;X7;K5.5
 C;X8;K0.0275;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.sainsburys.co.uk/gol-ui/product/union-hand-roasted-coffee-maraba-rwanda-cafeti%c3%a8re-grind-200g"
-C;Y132;X1;K"union timana"
+C;Y153;X1;K"union timana"
 C;X2;K1
 C;X3;K0
 C;X4;K200
@@ -2408,7 +2786,7 @@ C;X6;K4
 C;X7;K4.28
 C;X8;K0.021400000000000002;E(RC[-1]*RC[-2])/(RC[-4]*RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B084R25CPT"
-C;Y133;X1;K"union timana"
+C;Y154;X1;K"union timana"
 C;X2;K1
 C;X3;K0
 C;X4;K200
